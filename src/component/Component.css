@@ -1,0 +1,33 @@
+.navbar {
+    background-color: royalblue;    
+}
+
+
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: royalblue;
+    color: white;
+    text-align: center;    
+    padding: 4px;
+}
+
+#footer-text {
+    font-size: medium;
+}
+
+
+.btn {
+    background-color: aqua;
+    color: black;
+}

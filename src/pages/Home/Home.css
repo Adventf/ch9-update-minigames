@@ -1,0 +1,26 @@
+.home-body {
+  margin-bottom: 40px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+h1 {
+  color: rgb(0, 0, 0);
+}
+.button1 {
+  background-color: royalblue !important;
+}
+.image {
+  background-size: cover;
+}
+.button2 {
+  background-color: orange !important;
+}
+.button3 {
+  background-color: green !important;
+  margin-top: 6%;
+}
+
+.category {
+  background-color: #3a3a3a;
+  color: white;
+}

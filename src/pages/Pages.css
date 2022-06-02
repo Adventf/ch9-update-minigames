@@ -1,0 +1,17 @@
+.btnAuth {
+  background-color: white !important;
+  color: royalblue !important;
+  width: 8rem;
+  font-weight: bold !important;
+}
+
+.register-box {
+  margin: 5rem auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 30rem;
+  background-color: royalblue;
+  color: white;
+  display: block;
+  border-radius: 20px;
+}
